@@ -1,6 +1,6 @@
 # GO Currency Exchange
 
-This project leverages Go to intelligently serve currency data from over 160 different countries, using the public Exchange Rate API while minimizing the number of requests made through efficient routines.
+This project uses Go to serve currency data from over 160 different countries, using the public Exchange Rate API while minimizing the number of requests made through efficient routines.
 
 ## Table of Contents
 
