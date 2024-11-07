@@ -7,7 +7,7 @@ This project uses Go to serve currency data from over 160 different countries, u
 - [Project Info](#project-info)
 - [Running the Application](#running-the-application)
 - [Examples](#examples)
-  - [Convert Currency](#convert-curency)
+  - [Convert Currency](#convert-currency)
   - [Get Rate from Currency](#get-rate-from-currency)
   - [Get All Rates](#get-all-rates)
 
